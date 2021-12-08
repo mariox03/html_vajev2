@@ -1,0 +1,57 @@
+body {
+  background-image: url("../img/sneg.png");
+}
+h1 {
+  color: maroon;
+}
+
+
+.div1 {
+  margin-left: 20px;
+  border-left: 20px dashed red;
+  border-right: 20px dashed red;
+}
+.div2 {
+  width: 21%;
+  background-color: #ff9900;
+  border: 20px dashed maroon;
+  padding: 20px;
+}
+.div3 {
+  background-color: white;
+  border: 10px maroon;
+  border-style: double;
+  margin-top: 20px;
+  color: maroon;
+}
+.p20 {
+  padding: 20px;
+}
+.main-menu {
+  display: flex;
+  font-size: 25px;
+}
+.main-menu a {
+  flex-grow: 1;
+  background-color: yellow;
+  padding: 20px 0;
+  color: red;
+  display: block;
+  font-family: Trebuchet MS;
+  text-decoration: none;
+  text-align: center;
+}
+.main-menu a:hover {
+  color: yellow;
+  background-color: red;
+}
+
+
+#m15 {
+  margin: 0px 15px;
+}
+#ml15 {
+  margin-left: 15px;
+}
+
+

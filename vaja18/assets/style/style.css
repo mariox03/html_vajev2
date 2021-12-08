@@ -1,0 +1,40 @@
+body {
+    background-color: orange;
+}
+* {
+    /*border: 1px solid black;*/
+    font-family: Tahoma;
+    color: maroon;
+}
+
+.meni {
+    display: flex;
+    justify-content: space-around;
+}
+.meni a {
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    border: 5px solid maroon;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.meni a {
+    text-decoration: none;
+    color: black;
+}
+.meni a:hover {
+    background-color: #fff;
+    color: maroon;
+}
+.vsebina {
+    width: 800px;
+    background-color: #fff;
+    border: 5px solid lightblue;
+    margin-bottom: 22px;
+    padding: 13px;
+}

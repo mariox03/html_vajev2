@@ -1,0 +1,51 @@
+.tabela {
+  width: 400px;
+  margin: auto;
+  border: 1px solid red;
+}
+.glava {
+  text-align: center;
+  padding: 5px;
+}
+.naslov {
+  font-size: 30px;
+}
+.odmiki {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.glavatebele {
+  background-color: red;
+  border: 1px solid red;
+}
+.razredpodpis {
+  width: 100%;
+  padding-top: 10px;
+  margin-left: 150px;
+  border-top: 4px dashed maroon;
+  margin-top: 66px;
+}
+
+#tekstpodpis {
+  padding-top: 10px;
+  color: maroon;
+  font-style: italic;
+}
+#glavninaslov {
+  font-size: 22px;
+  color: green;
+  font-weight: bold;
+  text-align: center;
+}
+#ostalinaslovi {
+  font-size: 18px;
+  color: white;
+}
+#liha {
+  background-color: #ffbf00;
+}
+#soda {
+  background-color: #a9f5a9;
+}

@@ -1,0 +1,61 @@
+/*znacke*/
+
+body {
+  background-color: yellow;
+}
+
+h1 {
+  color: red;
+  font-size: 30px;
+  font-family: Tahoma;
+}
+
+table {
+  margin-top: 33px;
+  background-color: white;
+  border: 5px solid lightseagreen;
+  width: 50%;
+  height: 100px;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  border: 5px dotted orange;
+  padding: 10px;
+}
+
+td {
+  border: 4px solid lightseagreen;
+  padding: 10px;
+}
+
+/*razredi*/
+
+.podcrtano {
+  text-decoration: underline;
+}
+
+.okno1 {
+  border: 6px double red;
+  text-align: center;
+  margin-bottom: 22px;
+}
+
+.okno2 {
+  border: 6px double red;
+  text-align: center;
+  margin-bottom: 22px;
+}
+
+.okno3 {
+  border: 6px double red;
+  text-align: center;
+  margin-bottom: 22px;
+}
+
+.okno4 {
+  border: 6px double red;
+  text-align: center;
+  margin-bottom: 22px;
+}

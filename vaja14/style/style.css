@@ -1,0 +1,38 @@
+.pisava1 {
+    font-family: 'Montserrat', sans-serif;
+}
+.pisava2 {
+    font-family: 'Poppins', sans-serif;
+}
+.slika1 {
+    background-image: url('/vaja14/img/1.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+}
+.slika2 {
+    background-image: url('/vaja14/img/2.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+}
+.slika3 {
+    background-image: url('/vaja14/img/3.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+}
+.slika4 {
+    background-image: url('/vaja14/img/4.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+}

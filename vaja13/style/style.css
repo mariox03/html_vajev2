@@ -1,0 +1,58 @@
+body {
+    color: #23762e;
+    background-color: #d8f3db;
+    font-family: Tahoma;
+}
+div > a {
+    border: 10px solid #23762e;
+    float: left;
+    margin-top: 33px;
+    margin-bottom: 33px;
+}
+div {
+    width: 1645px;
+}
+/*table, td, th, tr {
+    border: 1px solid black;
+}*/
+table {
+    width: 1645px;
+    border-spacing: 10px 10px;
+    border: 10px solid #23762e;
+}
+th, td {
+    border: 3px solid #23762e;
+}
+
+.naslov {
+    background-color: #23762e;
+    color: #d8f3db;
+}
+.ml {
+    margin-left: 5px;
+}
+.t-center {
+    text-align: center;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer {
+    border: 10px;
+    border-style: double;
+    margin-top: 33px;
+}
+.p20 {
+    padding: 20px;
+}
+
+#no-border {
+    border: 0px;
+}
+#bold {
+    font-weight: bold;
+}
+#w {
+    width: 1625px;
+}
